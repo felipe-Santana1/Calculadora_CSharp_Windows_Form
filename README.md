@@ -14,7 +14,7 @@ Projeto tem finalidade de envolver diversos tipos de templates e páginas para u
 
 
 ### <h5> [IDE - Utilizada]</h5>
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio%&logoColor=blue)
 
 
 ### <h5> [Linguagem de Modelagem e Programação]</h5>
