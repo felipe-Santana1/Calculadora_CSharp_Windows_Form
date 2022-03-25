@@ -8,7 +8,7 @@ Calculadora em C# feita através do Windows Form.
 
 
 <img align="right" src="https://cdn.dribbble.com/users/3375/screenshots/2550813/media/d9f9cfa354d732a69c9d7a961487948c.gif" width="200" height="200"/>
-Projeto tem finalidade de envolver diversos tipos de templates e páginas para utilização
+Projeto de ajudar e propagar o conhecimento, foi feito uma aplicação em forma de calculadora para ajudar e treinar conhecimentos basicos na linguagem C# em prol de Windows Form.
 
 </br></br>
 
