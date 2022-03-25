@@ -1,7 +1,7 @@
 # Calculadora_CSharp_Windows_Form
 Calculadora em C# feita através do Windows Form.
 ### <h2> Portfólio Frontend
-  <h5>Portfólio tem o objetivo de criar páginas estaticas HTML com CSS e JS</h5>
+  <h5>Calculadora Simples, com foco na utilização de tecnicas basicas como pegar valores de campos, manipulação de valores e apresentação de resultados.</h5>
   
   </br>
   
